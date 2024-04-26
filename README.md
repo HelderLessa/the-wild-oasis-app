@@ -2,4 +2,4 @@
 
 Main project in Jonas Schmedtmann's Ultimate React Course.
 
-In it validated users can manage a booking hotel system.
+In it validated users can manage a booking hotel system. Built with React Query and Supabase.
